@@ -2,8 +2,7 @@
 Project source for CalU Strike a Spark Conference 2019.
 *This project is a functional proof-of-concept, laying the groundwork for future SAS web app groups; as such, it has little security.*
 
-## Kanban board used to track tasks:
-https://trello.com/b/VA8yieML/sas-project
+## [Kanban board used to track tasks](https://trello.com/b/VA8yieML/sas-project)
 
 # Goal
 The goal of this project was to facilitate collection & conclusion of scores from students' posters. Many manhours would be spent tallying and drafting results from the results; with this program, results would be made in seconds.
