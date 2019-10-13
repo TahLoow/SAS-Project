@@ -9,8 +9,8 @@ Judges would:
 2. Select which poster they were judging, 
 3. Select numeric scores from pre-determined ranges, as well as any comments,
 4. Choose a submission action: 
-  - Submit (Cannot be modified after)
-  - Save (Scores can be re-loaded and revised at a later time)
+   - Submit (Cannot be modified after)
+   - Save (Scores can be re-loaded and revised at a later time)
 
 ## Smaller Header
 Kanban board used to track tasks:
