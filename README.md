@@ -27,6 +27,9 @@ After consulting needs of the project and the school's IT department, we ended u
 
 None of us had strong interaction with any of these technologies, so it was mostly through sheer will and good teamwork that we got everything functioning.
 
+I regularly used paint to create primitive diagrams for page navigation:
+![Here:](https://i.imgur.com/UmMpVzT.png)
+
 # Challenges
 - There was little to no direction given to us as for the design of the project
 - The previous group who tried this used Django; because the school wouldn't install Django for them, we were left with python server code that ultimately was binned
